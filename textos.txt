@@ -103,5 +103,3 @@ Blog
 Destaques
 Institucional
 Contato
-               
-  <img src="img/sobre-apeperia.png" alt="Sobre a Apeperia" class="sobre__imagem">
